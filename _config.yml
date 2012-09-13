@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://vincentcn.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: 御风独行
+subtitle: 人生若尘露，天道邈悠悠。
+author: Vincent Xue
 simple_search: http://google.com/search
-description:
+description: 御风独行(Vincent Xue), 码农, 爱科技, 爱艺术.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: vincentfcn@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -58,26 +58,26 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user:vincentcn
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
+twitter_user:xuecn
+twitter_tweet_count: 5
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
 
 # Google +1
-google_plus_one: false
+google_plus_one: true
 google_plus_one_size: medium
 
 # Google Plus Profile
 # Hidden: No visible button, just add author information to search results
-googleplus_user:
+googleplus_user:xueprc@gmail.com
 googleplus_hidden: false
 
 # Pinboard
@@ -96,4 +96,4 @@ disqus_show_comment_count: false
 google_analytics_tracking_id:
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
