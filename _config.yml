@@ -1,16 +1,16 @@
-# ----------------------- #
+ï»¿# ----------------------- #
 #      Main Configs       #
 # ----------------------- #
 
 url: http://vincentcn.github.com
-# title: Óù·ç¶ÀĞĞ
-title: \u5FA1\u98CE\u72EC\u884C
-# subtitle: ÈËÉúÈô³¾Â¶£¬ÌìµÀåãÓÆÓÆ¡£
-subtitle: \u4EBA\u751F\u82E5\u5C18\u9732\uFF0C\u5929\u9053\u9088\u60A0\u60A0\u3002
+title: å¾¡é£ç‹¬è¡Œ
+# title: \u5FA1\u98CE\u72EC\u884C
+subtitle: äººç”Ÿè‹¥å°˜éœ²ï¼Œå¤©é“é‚ˆæ‚ æ‚ ã€‚
+# subtitle: \u4EBA\u751F\u82E5\u5C18\u9732\uFF0C\u5929\u9053\u9088\u60A0\u60A0\u3002
 author: Vincent Xue
 simple_search: http://google.com/search
-#description: Óù·ç¶ÀĞĞ(Vincent Xue), ÂëÅ©, °®¿Æ¼¼, °®ÒÕÊõ.
-description: \u5FA1\u98CE\u72EC\u884C(Vincent Xue), \u7801\u519C, \u7231\u79D1\u6280, \u7231\u827A\u672F.
+description: å¾¡é£ç‹¬è¡Œ(Vincent Xue), ç å†œ, çˆ±ç§‘æŠ€, çˆ±è‰ºæœ¯.
+# description: \u5FA1\u98CE\u72EC\u884C(Vincent Xue), \u7801\u519C, \u7231\u79D1\u6280, \u7231\u827A\u672F.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
