@@ -3,11 +3,14 @@
 # ----------------------- #
 
 url: http://vincentcn.github.com
-title: 御风独行
-subtitle: 人生若尘露，天道邈悠悠。
+# title: 御风独行
+title: \u5FA1\u98CE\u72EC\u884C
+# subtitle: 人生若尘露，天道邈悠悠。
+subtitle: \u4EBA\u751F\u82E5\u5C18\u9732\uFF0C\u5929\u9053\u9088\u60A0\u60A0\u3002
 author: Vincent Xue
 simple_search: http://google.com/search
-description: 御风独行(Vincent Xue), 码农, 爱科技, 爱艺术.
+#description: 御风独行(Vincent Xue), 码农, 爱科技, 爱艺术.
+description: \u5FA1\u98CE\u72EC\u884C(Vincent Xue), \u7801\u519C, \u7231\u79D1\u6280, \u7231\u827A\u672F.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
