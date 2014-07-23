@@ -34,7 +34,7 @@ footer: false
     </ul>
 </div>
 <div id = "result-notice" class="fixed-width">
-    <h1>诺亚财富管理中心-性格测试结果</h1>
+    <h1>九型人格测试结果</h1>
 </div>
 <div id="results-chart"></div>
 <div id="questions" class="fixed-width"></div>
