@@ -9,15 +9,10 @@ footer: false
 <script type="text/javascript" src="/javascripts/libs/jquery-1.8.3.min.js"></script>
 <script type="text/javascript" src="/javascripts/sunny/randomDecision.js"></script>
 快速智能选择，专治各种纠结，选择综合症。
-<div id = "toolDesc">
-    <p>
-        请输入选择个数
-        <input id="countInput" type="text" value="2"></input>
-    </p>
+<div id = "choicesInput"><ol></ol>
 </div>
-<div id = "choicesInput">
-</div>
-<div id = "actions">
+<div>
+	<a id="addMore" href="#">更多选项...<a/>
     <p><input id='getResultBtn' type='button' value='智能选取' /></p>
+    <div id="choiceResult"></div>
 </div>
-<div id="choiceResult"></div>
